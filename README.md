@@ -1,4 +1,8 @@
 # my-first-project
-hello!i,m learning github
-this is my first repository
-I will use it to practice programming
+hello! My name is Saad
+##My goals
+-learn git and Github
+-learn python programming
+-build my first coding projects
+
+This is my first repository!
